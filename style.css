@@ -1,0 +1,25 @@
+html {
+    background-color: transparent;
+   background-repeat: no-repeat;
+    background-image: url(https://3.bp.blogspot.com/-18iiO663qTM/Vp6P8bdq3uI/AAAAAAAAAm8/yVspizK_BdI/s1600/descargar%2Bim%25C3%25A1genes%2Bde%2Bfondo%2Bde%2Bpantalla%2B4.jpgg)
+
+     
+
+  }
+  body {
+  width: 500px;
+
+  background-color:white;
+    
+  opacity: 0.5;
+  padding: 0 20px 20px 20px;
+ 
+}
+
+ h1 {
+    margin: 3;
+    padding: 20px 0;
+    color:blue;
+    
+
+  }
